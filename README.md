@@ -1,4 +1,4 @@
-# Project Name
+# Brian Muturi
 
 ## 📌 Description
 
@@ -6,9 +6,9 @@ A brief overview of what your project does and why it exists.
 
 ## 🚀 Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- git
+- hub
+- clone
 
 ## 🛠️ Tech Stack
 
@@ -41,3 +41,4 @@ This project is licensed under the MIT License.
 
 🙋‍♂️ Contact
 Created by Your Name - feel free to reach out!
+
